@@ -1,3 +1,29 @@
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally on your machine:
+
+### 1. Prerequisites
+* Make sure you have [Flutter SDK](https://docs.flutter.dev/get-started/install) installed.
+* Ensure you have a physical device or emulator ready.
+
+### 2. Installation
+Clone the repository to your local machine:
+```bash
+git clone [https://github.com/your-username/explore-ambiences.git](https://github.com/your-username/explore-ambiences.git)
+
+3. Setup
+​Navigate to the project folder and download the required dependencies:
+
+cd explore-ambiences
+flutter pub get
+
+4. Run the App
+Connect your device and run the following command in your terminal:
+
+flutter run
+
+
 # 🎧 Explore Ambiences
 
 ![Explore Ambiences Banner](https://github.com/yash2963/explore-ambiences-flutter/raw/main/image%20(5).jpg)
