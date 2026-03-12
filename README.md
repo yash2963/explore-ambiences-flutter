@@ -1,52 +1,42 @@
-<<<<<<< HEAD
-# arvyax
-
-Arvyax
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # 🎧 Explore Ambiences
+
+![Explore Ambiences Banner](https://github.com/yash2963/explore-ambiences-flutter/raw/main/image%20(5).jpg)
 
 **Explore Ambiences** is a professional-grade focus and sound application. It’s designed for developers, students, and creators who need a gritty, cinematic atmosphere to get into their "flow state."
 
 ---
 
-## 🚀 Key Features (Screen 1)
+## 🚀 Key Features
 - **Categorized Soundscapes:** Quickly switch between **Focus, Calm, Sleep, and Reset** modes.
 - **Smart Search:** Instant filtering of sounds using a real-time search algorithm.
-- **State-Independent UI:** Custom-built play/pause logic where each list item tracks its own state.
-- **Cinematic Visuals:** Clean, dark-themed UI inspired by classic gritty gaming aesthetics.
+- **State-Independent UI:** Custom-built play/pause logic for seamless interaction.
+- **Hero Transitions:** Smooth animations between screens for a premium feel.
+- **Cinematic Visuals:** Dark-themed UI inspired by Detroit: Become Human & Max Payne.
 
-## 🛠️ Tech & Tools
-- **Frontend:** Flutter (Dart)
-- **Audio Engine:** `audioplayers` package
-- **Fonts:** Google Fonts (Jakarta Sans)
-- **Architecture:** Clean UI with logic-based filtering
+## 🛠️ Tech Stack
+- **Framework:** [Flutter](https://flutter.dev) (Dart)
+- **State Management:** Provider / Riverpod Logic
+- **Audio:** `audioplayers` package
+- **UI:** Custom Glassmorphism & Hero Animations
 
 ## 📂 Project Structure
-- `lib/features/ambience/data/`: Models and static data lists.
-- `lib/features/ambience/presentation/`: UI screens and custom widgets.
+- `lib/data/`: Models and static soundscape data.
+- `lib/screens/`: Discovery Grid and Player View.
+- `lib/widgets/`: Reusable cinematic UI components.
 
 ---
 
 ## 🚧 Roadmap
 - [x] Screen 1: Discovery & Filtering
-- [ ] Screen 2: Detailed Player View (In Progress)
+- [x] GitHub Social Preview Integration
+- [ ] Screen 2: Detailed Player View (Hero Animations)
 - [ ] Sleep Timer Integration
-- [ ] Offline Mode (Local Assets)
+- [ ] Offline Mode support
 
 ## 👨‍💻 Developer
-**[Aapka Naam]** *Flutter Developer | Second Year College Student*
->>>>>>> 454f2db8254835486b40fad33b6eba4966a17e1d
+**Yash**
+*Software Developer | 2nd Year College Student*
+*Proficient in Flutter, FastAPI, and PostgreSQL*
+
+---
+*Find your flow, stay in the zone.*
